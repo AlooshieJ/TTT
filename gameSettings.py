@@ -1,0 +1,12 @@
+# main window info
+WIDTH = 600
+HEIGHT = 600
+FPS = 60
+
+
+
+# Grid info
+TILESIZE = 200
+GRIDWIDTH = WIDTH / TILESIZE
+GRIDHEIGHT = HEIGHT / TILESIZE
+
